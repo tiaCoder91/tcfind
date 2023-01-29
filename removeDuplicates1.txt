@@ -1,0 +1,1301 @@
+
+===========================================
+1 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script
+***************************************  
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+***************************************  
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+***************************************  
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+***************************************  
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+***************************************  
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+***************************************  
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+***************************************  
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+***************************************  
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+***************************************  
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+***************************************  
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+***************************************  
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+***************************************  
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+***************************************  
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+***************************************  
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+***************************************  
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+***************************************  
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+
+===========================================
+1 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+***************************************  
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+***************************************  
+Path già presente.
+
+===========================================
+1 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+2 = /Users/tia/Desktop/script
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app
+2 = /Users/tia/Desktop/script/read_write_data-1.0
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents
+2 = /Users/tia/Desktop/script/read_write_data-1.0/database
+2 = /Users/tia/Desktop/script/read_write_data-1.0/lib
+2 = /Users/tia/Desktop/script/read_write_data-1.0/read
+2 = /Users/tia/Desktop/script/read_write_data-1.0/res
+2 = /Users/tia/Desktop/script/read_write_data-1.0/write
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/_CodeSignature
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/MacOS
+2 = /Users/tia/Desktop/script/TCDownloadReturn-1.1_1.app/Contents/Resources
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+***************************************  
+Path già presente.
+2 = /Users/tia/Desktop/script/CORE Keygen.app/Contents/Resources/en.lproj
+***************************************  
+Path già presente.

@@ -10,6 +10,7 @@
 entry_dir="null"
 ext="null"
 name="null"
+print="null"
 
 # ======================================================= INPUT ============================================================================
 
@@ -19,16 +20,28 @@ for ((i = 0; i < ${#@}; i++)) ; do
     if [[ "${arr_command[$i]}" == "-ext" ]] ; then     # Parametro per la ricerca in base all'estensione
         ext="${arr_command[$i+1]}"
     fi
+
     if [[ "${arr_command[$i]}" == "-name" ]] ; then    # Parametro per la ricerca in base al nome del file
         name="${arr_command[$i+1]}"
     fi
+    
     if [[ "${arr_command[$i]}" == "-dir" ]] ; then     # Parametro per la ricerca nella directory e nelle sotto directory
         entry_dir="${arr_command[$i+1]}"
     fi
-    if [[ -d "$entry_dir" ]] ; then
-        cd "$entry_dir"
-        entry_dir="$PWD"        # Reset di $entry_dir dopo l'entrata nella directory ( es.: $entry_dir = $PWD = /Users/tia/Desktop/File = -dir File )
+    
+    if [[ "${arr_command[$i]}" == "-p" ]] ; then       # Parametro per stampare tutti i file e directory trovate
+        print="print"
+    elif [[ "${arr_command[$i]}" == "-pr" ]] ; then
+        print="printERemove"
+    elif [[ "${arr_command[$i]}" == "-r" ]] ; then
+        print="remove"
     fi
+
+    if [[ -d "$entry_dir" ]] ; then   # Nel caso ci fosse dolo il nome della directory
+        cd "$entry_dir"
+        entry_dir="$PWD"              # Reset di $entry_dir dopo l'entrata nella directory ( es.: $entry_dir = $PWD = /Users/tia/Desktop/File = -dir File )
+    fi
+
 done
 
 #echo "directory = $entry_dir"
@@ -153,8 +166,16 @@ partition() {
 }
 
 
+removeDataTcfind() {
+  if [[ -e "$data" ]] ; then
+     rm "$data"
+  fi
+}
+
+
 # Stampa tutti i risultati nel data.txt dopo che i dati sono stati riconosciuti da partition()
-printData() {
+data="$HOME/Desktop/${BASH_SOURCE[0]%.${BASH_SOURCE##*.}}.txt" 
+printDataTcfind() {
    printf "\n PATH = $entry_dir \n========= Lista ============\nlist = $1\n\n" >> "$data"
    for string in "${directory[@]}" ; do
        echo "directory = $string" >> "$data"
@@ -172,20 +193,21 @@ printData() {
 
 # ======================================================= PROGRAMMA ============================================================================
 
-data="$HOME/Desktop/${BASH_SOURCE[0]%.${BASH_SOURCE##*.}}.txt" 
 
-<<com
-if [[ -e "$data" ]] ; then
-   rm "$data"
-fi
-com
 
 if [[ "$entry_dir" != "null" ]] ; then
-   list=$(addPointerToList "$entry_dir")
-   else
-      list=$(addPointerToList)
+    list=$(addPointerToList "$entry_dir")
+else
+    list=$(addPointerToList)
 fi
 
 partition "$list"
-printData "$list"
 
+if [[ "$print" == "print" ]] ; then
+   printDataTcfind "$list"
+elif [[ "$print" == "printERemove" ]] ; then
+   removeDataTcfind
+   printDataTcfind "$list"
+elif [[ "$print" == "remove" ]] ; then
+   removeDataTcfind
+fi
