@@ -30,7 +30,7 @@ ARR_PATH=()
 # Listare la prima directory e salvare le path con le directory
 listing() {
 
-    # Dipende da l'input iniziale ( o la directory o la path ) più aggirnamento path con nuova directory da ciclo while 
+    # Dipende da l'input iniziale ( o la directory o la path ) più aggiornamento path con nuova directory da ciclo while 
     path="$1" 
 
     IFS="/"
@@ -46,6 +46,7 @@ listing() {
         ARR_PATH+=( "$path/$dir" ) 
     done
 }
+
 
 tcdir() {  
 # Da la partenza per il salvataggio delle directory perchè per far
@@ -64,14 +65,15 @@ while [[ -n "${ARR_DIR[@]}" ]] ; do
 done #>> "$data"
 }
 
-printFoundPath() {
-# La quantità di directory trovate
-echo "Path found = ${#ARR_PATH[@]}" >> "$found_path"
 
-# Stampa in found_path tutte le directory trovate
-for n_path in "${ARR_PATH[@]}" ; do
-    echo "n_path = $n_path"
-done >> "$found_path"
+printFoundPath() {
+    # La quantità di directory trovate
+    echo "Path found = ${#ARR_PATH[@]}" >> "$found_path"
+
+    # Stampa in found_path tutte le directory trovate
+    for n_path in "${ARR_PATH[@]}" ; do
+        echo "n_path = $n_path"
+    done >> "$found_path"
 }
 
 

@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# =============================================================== DESCRIPTION ============================================================
+#
+#   Questo programma suddivide i file e le directory negli appositi array = ( directory, eseguibili, altri_file, pipe_file = fifo )
+#   
+#
+# ========================================================================================================================================
+
 entry_dir="null"
 ext="null"
 name="null"
@@ -32,55 +39,56 @@ done
 
 # Aggiunge un puntatore finale quando l'ultimo non è presente e lo inserisce in altri file
 addPointerToList() {
-# Stringa della lista della directory corrente
-if [[ -n "$1" ]] ; then
-  string_ls=$(ls -F "$1")
-  else
-    string_ls=$(ls -F)
-fi
 
-#echo "$string_ls = string_ls"
+    # Stringa della lista della directory corrente
+    if [[ -n "$1" ]] ; then
+       string_ls=$(ls -F "$1")
+       else
+          string_ls=$(ls -F)
+    fi
 
-# Formattazione della stringa con puntatore finale nella variabile save_with_point
-for ((i = 0; i < ${#string_ls}; i++)) ; do
-    #echo "${string_ls:$i:1}"
-    #echo -n "${string_ls:$i:1}" | xxd -p  
+    #echo "$string_ls = string_ls"
 
-    char_hex=$(echo -n "${string_ls:$i:1}" | xxd -p)
+    # Formattazione della stringa con puntatore finale nella variabile save_with_point
+    for ((i = 0; i < ${#string_ls}; i++)) ; do
+        #echo "${string_ls:$i:1}"
+        #echo -n "${string_ls:$i:1}" | xxd -p  
 
-    if [[ "$char_hex" == "0a" ]] ; then
-        #echo "ok !!!"
-        #echo "$save_with_point"
-        for ((n = 0; n < "${#save_with_point}"; n++)) ; do
-           #echo "${save_with_point:$n:1}"
-           #echo "$(($n+1)) - ${#save_with_point}"
-            if (( $n+1 == ${#save_with_point} )) ; then
-               #echo "FINALE !!!"
-               if [[ "${save_with_point:$n:1}" == "*" || "${save_with_point:$n:1}" == "/" || "${save_with_point:$n:1}" == "|" ]] ; then
-                  #echo "pass"
-                  break
-                  else
-                    save_with_point+="¬"
-                    break
-               fi
-            fi
-        done
-           else 
-               save_with_point+="${string_ls:$i:1}"          # *******  Salvataggio caratteri  **********
+        char_hex=$(echo -n "${string_ls:$i:1}" | xxd -p)
+
+        if [[ "$char_hex" == "0a" ]] ; then
+            #echo "ok !!!"
+            #echo "$save_with_point"
+            for ((n = 0; n < "${#save_with_point}"; n++)) ; do
+                #echo "${save_with_point:$n:1}"
+                #echo "$(($n+1)) - ${#save_with_point}"
+                if (( $n+1 == ${#save_with_point} )) ; then
+                   #echo "FINALE !!!"
+                    if [[ "${save_with_point:$n:1}" == "*" || "${save_with_point:$n:1}" == "/" || "${save_with_point:$n:1}" == "|" ]] ; then
+                        #echo "pass"
+                        break
+                    else
+                        save_with_point+="¬"
+                        break
+                    fi
+                fi
+            done
+        else 
+            save_with_point+="${string_ls:$i:1}"          # *******  Salvataggio caratteri  **********
     fi
 
     if (( $i+1 == ${#string_ls} )) ; then                    # Controllo dell'ultimo carattere nel finale del ciclo iniziale
-       for ((n = 0; n < "${#save_with_point}"; n++)) ; do
-        #echo "${save_with_point:$n:1}"
-        #echo "$(($n+1)) - ${#save_with_point}"
+        for ((n = 0; n < "${#save_with_point}"; n++)) ; do
+            #echo "${save_with_point:$n:1}"
+            #echo "$(($n+1)) - ${#save_with_point}"
             if (( $n+1 == ${#save_with_point} )) ; then 
                 #echo "FINALE !!!"
                 if [[ "${save_with_point:$n:1}" == "*" || "${save_with_point:$n:1}" == "/" || "${save_with_point:$n:1}" == "|" ]] ; then
                    #echo "pass"
                    break
                    else
-                     save_with_point+="¬"
-                     break
+                       save_with_point+="¬"
+                       break
                 fi
             fi
         done
@@ -91,6 +99,7 @@ done
 echo "$save_with_point"
 
 }
+
 
 # Ripartiziona i file nell'array corretto ( eseguibile -> altri_file )
 sortFile() {
@@ -105,6 +114,7 @@ sortFile() {
         fi
     done
 }
+
 
 # Partiziona i dati negli appositi array.  
 #  FATTO { Manca una parte del programma che prima del salvatggio riconosce il file per tipo di estensione } !!!!!
@@ -141,6 +151,7 @@ partition() {
         fi
     done
 }
+
 
 # Stampa tutti i risultati nel data.txt dopo che i dati sono stati riconosciuti da partition()
 printData() {
